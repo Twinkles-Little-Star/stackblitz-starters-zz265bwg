@@ -4,7 +4,6 @@ export default function SnapshotPage() {
       <h1>Snapshot</h1>
       <p>Your Snapshot route is working.</p>
     </div>
-  );
 "use client";
 
 import { useState } from "react";
